@@ -38,7 +38,7 @@
             </span>
           </div>
           <p class="text-sm text-gray-500 mt-2">
-            Busca recursiva em todas as subpastas (igual ao Python)
+            Combine múltiplas imagens PNG em uma única sprite sheet otimizada usando algoritmo inteligente de empacotamento
           </p>
         </div>
 
